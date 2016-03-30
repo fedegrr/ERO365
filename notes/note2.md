@@ -1,0 +1,1 @@
+As discussed in paragraph “ExpressRoute access to O365/CRMOL endpoints”, internet access is also needed for DNS name resolution.

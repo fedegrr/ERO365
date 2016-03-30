@@ -1,0 +1,1 @@
+For a Premium circuit, all the O365/CRMOL prefixes used worldwide are advertised, irrespective of the peering location where the circuit has been created. 
